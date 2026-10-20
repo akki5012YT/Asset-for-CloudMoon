@@ -1,0 +1,6 @@
+{
+  "name": "CloudMoon Debugger & Fixer",
+  "description": "CloudMoonの「Fail:」エラー原因解析・API接続診断・最新版portal-261014.html修復ツール",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
